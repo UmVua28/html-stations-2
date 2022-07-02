@@ -14,18 +14,18 @@ header{
     grid-column: 1/2;
 }
 
-/* .a{
+.a{
     grid-row: 2/3;
     grid-column: 2/3;
 }
 .b{
     grid-row: 3/4;
     grid-column: 2/3;
-} */
-/* .c{
+}
+.c{
     grid-row: 4/5;
     grid-column: 2/3;
-} */
+}
 
 footer{
     grid-row: 5/6;
